@@ -2,6 +2,7 @@
   "name": "yireo/magento2-replace-core",
   "version": "2.3.2",
   "replace": {
+    "magento/module-admin-analytics": "*",
     "magento/module-advanced-pricing-import-export": "*",
     "magento/module-amqp": "*",
     "magento/module-analytics": "*",
@@ -43,6 +44,7 @@
     "magento/module-usps": "*",
     "magento/module-version": "*",
     "magento/module-wishlist-analytics": "*",
-    "magento/module-worldpay": "*"
+    "magento/module-worldpay": "*",
+    "yotpo/magento2-module-yotpo-reviews": "*"
   }
 }
